@@ -2377,67 +2377,22 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rqc2a979W7 {
+.cid-rqc4ZBr70S {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
 }
-.cid-rqc2a979W7 .mbr-slider .carousel-control {
-  background: #1b1b1b;
+.cid-rqc85drdMK {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #465052, #465052);
 }
-.cid-rqc2a979W7 .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
+.cid-rqc85drdMK .mbr-iconfont-social {
+  font-size: 32px;
+  color: #073b4c;
 }
-.cid-rqc2a979W7 .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-.cid-rqc2a979W7 .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-rqc2a979W7 .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: #554346;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-}
-.cid-rqc2a979W7 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
-  background: transparent !important;
-}
-.cid-rqc2a979W7 .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
-}
-.cid-rqc2a979W7 .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
-}
-.cid-rqc2a979W7 .mbr-gallery-title:before {
-  content: " ";
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  position: absolute;
-  background: #554346 !important;
-  opacity: 0.7;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+.cid-rqc85drdMK .social-list a:focus {
+  text-decoration: none;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -2820,22 +2775,67 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rqc4ZBr70S {
+.cid-rqc2a979W7 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
+  background-color: #ffffff;
 }
-.cid-rqc85drdMK {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background: linear-gradient(0deg, #465052, #465052);
+.cid-rqc2a979W7 .mbr-slider .carousel-control {
+  background: #1b1b1b;
 }
-.cid-rqc85drdMK .mbr-iconfont-social {
-  font-size: 32px;
-  color: #073b4c;
+.cid-rqc2a979W7 .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
 }
-.cid-rqc85drdMK .social-list a:focus {
-  text-decoration: none;
+.cid-rqc2a979W7 .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-rqc2a979W7 .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-rqc2a979W7 .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rqc2a979W7 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-rqc2a979W7 .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-rqc2a979W7 .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-rqc2a979W7 .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
